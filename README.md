@@ -1,0 +1,3 @@
+# cable_companies_wireless_entrance
+
+The entrance into wireless services from cable companies has been a favorable decision for both the companies and consumers. Comcast, Charter Communications, and Altice USA experienced remarkable success with their offerings of mobile phone service in 2022. You have likely seen Xfinity’s commercials encouraging you to bundle your home internet and phone to save $30 per line on what you would be paying for your current monthly AT&T phone bill. This messaging has resonated with consumers because the three major wireless carriers known as AT&T, Verizon, and T-Mobile, have yet to lower their prices to match those of their cable company rivals.
