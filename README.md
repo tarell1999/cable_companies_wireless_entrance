@@ -32,3 +32,53 @@ Looking closer at the numbers, the mobile subscriber growth for cable companies 
 <img width="400" alt="Screenshot 2023-04-19 at 2 14 48 PM" src="https://user-images.githubusercontent.com/121827009/233164027-9ecca6ad-ef48-4bdc-a163-74a358df1975.png">
 
 This market needs to see a period of regularity before an accurate leveling prediction can be made. But based on what has happened so far, the cable companies’ mobile subscriptions will see strong growth in 2023.
+
+### Resouces
+
+Altice USA Reports First Quarter 2021 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/26/altice-usa-reports-first-quarter-2021-results 
+
+Altice USA Reports First Quarter 2022 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/144/altice-usa-reports-first-quarter-2022-results 
+
+Altice USA Reports Fourth Quarter and Full Year 2022 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/160/altice-usa-reports-fourth-quarter-and-full-year-2022-results 
+
+Altice USA Reports Second Quarter 2021 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/19/altice-usa-reports-second-quarter-2021-results 
+
+Altice USA Reports Second Quarter 2022 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/152/altice-usa-reports-second-quarter-2022-results 
+
+Altice USA Reports Third Quarter 2021 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/15/altice-usa-reports-third-quarter-2021-results 
+
+Altice USA Reports Third Quarter 2022 Results. (n.d.). Altice USA, Inc. https://investors.alticeusa.com/news-events/press-releases/detail/156/altice-usa-reports-third-quarter-2022-results 
+
+American Customer Satisfaction Index (2022, May 17). Press Release Wireless Phone Service and Cell Phone Study 2021-2022. The American Customer Satisfaction Index. https://www.theacsi.org/news-and-resources/press-releases/2022/05/17/press-release-wireless-phone-service-and-cell-phone-study-2021-2022/
+
+American Customer Satisfaction Index (ACSI) | QuestionPro. (n.d.). Www.questionpro.com. Retrieved March 31, 2023, from https://www.questionpro.com/american-customer-satisfaction-index-acsi.html#:~:text=These%20American%20Customer%20Satisfaction%20Index
+
+Blanco, O. (2021, May 12). Why Cell Phone Service From Your Cable Company May Make Sense. Consumer Reports. https://www.consumerreports.org/cell-phone-service-providers/getting-cell-phone-service-from-your-cable-company-isp-a1084490033/
+
+Brumley, J. (2022, November 4). The Wireless Industry’s Stalwarts Are Missing 10 Million Customers (and Are Set to Lose Even More). The Motley Fool. https://www.fool.com/investing/2022/11/04/the-wireless-industrys-stalwarts-are-missing-10-mi/?utm_source=nasdaq&utm_medium=feed&utm_campaign=article&referring_guid=02e06cd2-4f6d-43f6-8073-51a2cf6a3e2f
+
+Chang, E. (2022, August 9). When Will Inflation Go Down? Forbes Advisor. https://www.forbes.com/advisor/personal-finance/when-will-inflation-go-down/
+
+Charter Announces First Quarter 2022 Results | Charter Communications Inc. (n.d.). Charter Communications Inc. https://ir.charter.com/news-releases/news-release-details/charter-announces-first-quarter-2022-results 
+
+Charter Announces Fourth Quarter and Full Year 2022 Results | Charter Communications Inc. (n.d.). Charter Communications Inc. https://ir.charter.com/news-releases/news-release-details/charter-announces-fourth-quarter-and-full-year-2022-results 
+
+Charter Announces Second Quarter 2022 Results. (n.d.). Charter Communications. https://corporate.charter.com/newsroom/charter-announces-second-quarter-2022-results 
+
+Charter Announces Third Quarter 2022 Results | Charter Communications Inc. (n.d.). Charter Communications Inc. https://ir.charter.com/news-releases/news-release-details/charter-announces-third-quarter-2022-results 
+
+Comcast (2022, July 28) Edited Transcript CMCSA.OQ -Q2 2022 Comcast Corp Earnings Call EVENT DATE/TIME: JULY 28, 2022 / 12:30PM GMT. (n.d.). Comcast Event Details https://www.cmcsa.com/static-files/b8b7161b-c072-4ac4-b03a-cb2673dfcb9f
+
+Comcast Reports 1st Quarter 2022 Results | Comcast Corporation. (n.d.). Comcast Corporation. https://www.cmcsa.com/news-releases/news-release-details/comcast-reports-1st-quarter-2022-results 
+
+Comcast Reports 2nd Quarter 2022 Results | Comcast Corporation. (n.d.). Comcast Corporation. https://www.cmcsa.com/news-releases/news-release-details/comcast-reports-2nd-quarter-2022-results 
+
+Comcast Reports 3rd Quarter 2022 Results | Comcast Corporation. (n.d.). Comcast Corporation. https://www.cmcsa.com/news-releases/news-release-details/comcast-reports-3rd-quarter-2022-results 
+
+Comcast Reports 4th Quarter and Full Year 2022 Results | Comcast Corporation. (n.d.). Comcast Corporation. https://www.cmcsa.com/news-releases/news-release-details/comcast-reports-4th-quarter-and-full-year-2022-results
+
+Dyton J. (2021, April 22). Cable companies make presence felt in cell phone business. Connected Real Estate Magazine. https://connectedremag.com/das-in-building-wireless/wireless/cable-companies-make-presence-felt-in-cell-phone-business/
+
+Orf, M. (2023, February 3). The Cable Conundrum: How will Incumbent Carriers in the US Compete with Cable Companies on Price in 2023? Counterpoint Research. https://www.counterpointresearch.com/the-cable-conundrum-how-will-incumbent-carriers-in-the-us-compete-with-cable-companies-on-price-in-2023/
+
+Levy, A. (2022, December 28). Will Cable Be the Biggest Winner in Wireless in 2023? NASDAQ Articles. https://www.nasdaq.com/articles/will-cable-be-the-biggest-winner-in-wireless-in-2023
