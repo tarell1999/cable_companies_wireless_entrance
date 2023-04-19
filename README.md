@@ -1,12 +1,14 @@
 # cable_companies_wireless_entrance
 
+## Will the US cable companies continue to register strong mobile subscriber growth in 2023?
+
 The entrance into wireless services from cable companies has been a favorable decision for both the companies and consumers. Comcast, Charter Communications, and Altice USA experienced remarkable success with their offerings of mobile phone service in 2022. You have likely seen Xfinity’s commercials encouraging you to bundle your home internet and phone to save $30 per line on what you would be paying for your current monthly AT&T phone bill. This messaging has resonated with consumers because the three major wireless carriers known as AT&T, Verizon, and T-Mobile, have yet to lower their prices to match those of their cable company rivals.
 
 <img width="800" alt="Screenshot 2023-04-19 at 2 17 49 PM" src="https://user-images.githubusercontent.com/121827009/233164707-32be1872-553e-47e7-8d6a-04d5650899b6.png">
-*Chart represents 2 lines from carriers* (Orf, 2023)
+*Chart represents 2 lines from carriers* *From company websites* (Orf, 2023)
 <br></br>
 
-Comcast's Xfinity Mobile has not been the only popular choice. Charter Communications' Spectrum Mobile and Altice USA's Optimum Mobile also offer reliable unlimited service for an affordable price. The savings these cable companies provide dramatically grew their mobile subscriber by 24-34% in 2022. This success is projected to continue in 2023. 
+Comcast's Xfinity Mobile has not been the only popular choice. Charter Communications' Spectrum Mobile and Altice USA's Optimum Mobile also offer reliable unlimited service for an affordable price. The savings these cable companies provide dramatically grew their mobile subscriber by 24-34% in 2022 (calculations based from Comcast and Charter's quarterly reports). This success is projected to continue in 2023. 
   
 Consumers have been frustrated with high phone bills for a while now, so to justify them, the 3-major carriers may include the latest new device for free or a free year of a streaming service. However, Comcast and Charter Communications choose to directly address the issue by offering phone services that are $15-30 cheaper per line than the major carriers. For two lines, a customer saves an average of $540 a year. These yearly savings are a significant factor and what many consumers seek.
 
